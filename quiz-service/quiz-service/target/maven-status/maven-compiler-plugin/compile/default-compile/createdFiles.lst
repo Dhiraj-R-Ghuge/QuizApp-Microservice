@@ -1,0 +1,9 @@
+com\Dhiraj\quiz_service\controller\QuizController.class
+com\Dhiraj\quiz_service\DAO\QuizDao.class
+com\Dhiraj\quiz_service\model\Response.class
+com\Dhiraj\quiz_service\QuizServiceApplication.class
+com\Dhiraj\quiz_service\feign\QuizInterface.class
+com\Dhiraj\quiz_service\model\QuestionWrapper.class
+com\Dhiraj\quiz_service\model\Quiz.class
+com\Dhiraj\quiz_service\model\QuizDto.class
+com\Dhiraj\quiz_service\service\QuizService.class
